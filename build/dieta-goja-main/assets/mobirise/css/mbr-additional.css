@@ -2366,6 +2366,9 @@ body {
 .cid-qs73ouzpC9 .mbr-section-subtitle {
   color: #767676;
 }
+.cid-qs73ouzpC9 H2 {
+  text-align: center;
+}
 .cid-qs73Fr1bX0 {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -3352,68 +3355,65 @@ body {
     border-left: .30em solid transparent;
   }
 }
-.cid-qs7gEVCz29 {
-  padding-top: 105px;
-  padding-bottom: 60px;
+.cid-r4B5Vs2Drq {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #f9f9f9;
 }
-.cid-qs7gEVCz29 h2 {
+.cid-r4B5Vs2Drq h2 {
   text-align: left;
 }
-.cid-qs7gEVCz29 h4 {
+.cid-r4B5Vs2Drq h4 {
   text-align: left;
   font-weight: 500;
 }
-.cid-qs7gEVCz29 p {
+.cid-r4B5Vs2Drq p {
   color: #767676;
   text-align: left;
 }
-.cid-qs7gEVCz29 .block-content {
+.cid-r4B5Vs2Drq .block-content {
   display: -webkit-flex;
   flex-direction: column;
   -webkit-flex-direction: column;
+  word-break: break-word;
 }
-.cid-qs7gEVCz29 .mbr-card-img-title {
-  display: -webkit-flex;
-  flex-direction: row;
+.cid-r4B5Vs2Drq .media {
+  margin: initial;
   align-items: center;
-  -webkit-flex-direction: row;
-  -webkit-align-items: center;
 }
-.cid-qs7gEVCz29 .mbr-figure {
+.cid-r4B5Vs2Drq .mbr-figure {
   align-self: flex-start;
   -webkit-align-self: flex-start;
   -webkit-flex-shrink: 0;
   flex-shrink: 0;
 }
-.cid-qs7gEVCz29 .card-img {
+.cid-r4B5Vs2Drq .card-img {
   padding-right: 2rem;
+  width: auto;
 }
-.cid-qs7gEVCz29 .card-img span {
+.cid-r4B5Vs2Drq .card-img span {
   font-size: 72px;
   color: #707070;
 }
-.cid-qs7gEVCz29 .mbr-crt-title {
-  -webkit-flex-grow: 1;
-  flex-grow: 1;
-}
 @media (min-width: 992px) {
-  .cid-qs7gEVCz29 .mbr-figure {
+  .cid-r4B5Vs2Drq .mbr-figure {
     padding-right: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-qs7gEVCz29 .mbr-figure {
+  .cid-r4B5Vs2Drq .mbr-figure {
     padding-right: 0;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
   }
 }
-.cid-qs7gEVCz29 .mbr-text {
-  color: #82786e;
+@media (max-width: 300px) {
+  .cid-r4B5Vs2Drq .card-img span {
+    font-size: 40px !important;
+  }
 }
-.cid-qs7gEVCz29 P {
-  color: #232323;
+.cid-r4B5Vs2Drq H4 {
+  color: #767676;
 }
 .cid-qxSniUMHC4 {
   padding-top: 45px;

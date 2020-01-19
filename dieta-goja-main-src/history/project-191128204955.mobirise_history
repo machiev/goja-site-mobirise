@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "dieta-goja-main",
-    "currentPage": "index.html",
+    "currentPage": "contact-pl.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicon-32x32.png",
     "noImageResize": "",
     "versionFirst": "4.1.4",
-    "uniqCompNum": 77,
+    "uniqCompNum": 75,
     "versionPublish": "4.3.3",
     "path": "@PROJECT_PATH@",
     "publishType": "local",
