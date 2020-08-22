@@ -3437,6 +3437,64 @@ section.lazy-placeholder:after {
     font-size: 4.25rem;
   }
 }
+.cid-s4bat6xpBd {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #fefb9a;
+}
+.cid-s4bat6xpBd .title {
+  padding-bottom: 2.5rem;
+}
+.cid-s4bat6xpBd h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-s4bat6xpBd .bottom-line p {
+  color: #333333;
+}
+.cid-s4bat6xpBd .card-wrapper {
+  background-color: #ffffff;
+  background-color: transparent;
+  position: relative;
+  justify-content: unset;
+}
+.cid-s4bat6xpBd .card-wrapper .card-box {
+  width: 100%;
+}
+.cid-s4bat6xpBd .card-wrapper .card-box .wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.cid-s4bat6xpBd .card-wrapper .card-box .wrapper .top-line {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-s4bat6xpBd .card-wrapper .card-box .wrapper .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-s4bat6xpBd .card-wrapper .card-box .wrapper .bottom-line {
+    width: 100%;
+  }
+  .cid-s4bat6xpBd .card-wrapper .card-box .wrapper .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s4bat6xpBd .card.pb-5 {
+    padding-bottom: 2rem !important;
+  }
+  .cid-s4bat6xpBd .wrapper {
+    padding-top: 1rem;
+  }
+}
 .cid-rVdxzckb7H {
   padding-top: 45px;
   padding-bottom: 30px;
